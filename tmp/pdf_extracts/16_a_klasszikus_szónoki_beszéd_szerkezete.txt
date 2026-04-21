@@ -1,0 +1,51 @@
+﻿  773.9: [H3] 4.3. Befejezés (conclusio)
+  772.0: [Standard] A klasszikus szónoki beszéd szerkezete
+  754.1: [Lbl] • | [Text#20body] Összefoglalás
+  738.2: [Lbl] • | [Text#20body] Érzelmi hatáskeltés
+  731.7: [H2] 1. | [H2] A szónoki beszéd fogalma
+  722.3: [Lbl] • | [Text#20body] Felhívás, buzdítás
+  711.9: [Lbl] • | [Text#20body] A szónoki beszéd nyilvánosság előtt elhangzó, meggyőzésre irányuló szöveg
+  706.4: [Lbl] • | [Text#20body] A téma lezárása
+  696.0: [Lbl] • | [Text#20body] A retorika: a meggyőző beszéd és érvelés tudománya
+  680.1: [Lbl] • | [Text#20body] Célja: a hallgatóság befolyásolása, meggyőzése, cselekvésre ösztönzése
+  673.5: [H2] 5. | [H2] A szónoki beszéd jellemzői
+  653.7: [Lbl] • | [Text#20body] logikus felépítés
+  647.2: [H2] 2. | [H2] A klasszikus retorika alapjai
+  637.8: [Lbl] • | [Text#20body] tudatos szerkesztettség
+  627.4: [Lbl] • | [Text#20body] Az ókori görög–római hagyományból származik (pl. Arisztotelész)
+  621.9: [Lbl] • | [Text#20body] érzelmi és értelmi hatás egyaránt
+  611.5: [Lbl] • | [Text#20body] A meggyőzés három eszköze:
+  606.0: [Lbl] • | [Text#20body] a hallgatóságra való folyamatos figyelem
+  595.6: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] logosz | [Text#20body] – logikus érvelés
+  590.1: [Lbl] • | [Text#20body] meggyőzésre törekvés
+  579.7: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] ethosz | [Text#20body] – hitelesség, erkölcsi meggyőző erő
+  563.8: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] pátosz | [Text#20body] – érzelmekre hatás
+  557.2: [H2] 6. | [H2] Összegzés
+  537.4: [Lbl] • | [Text#20body] A klasszikus szónoki beszéd szigorúan felépített
+  530.9: [H2] 3. | [H2] A beszéd megszerkesztésének lépései
+  521.5: [Lbl] • | [Text#20body] A szerkezet célja: a hatásos meggyőzés
+  511.1: [Lbl] 1. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Anyaggyűjtés | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] (inventio) | [Text#20body] – témához kapcsolódó információk összegyűjtése
+  505.6: [Lbl] • | [Text#20body] A mai kommunikációban is alkalmazható (pl. prezentáció, vita, beszéd)
+  495.3: [Lbl] 2. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Elrendezés | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] (dispositio) | [Text#20body] – gondolatok logikus sorrendbe állítása
+  479.4: [Lbl] 3. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Kidolgozás | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] (elocutio) | [Text#20body] – megfogalmazás, stílus kialakítása
+  463.6: [Lbl] 4. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Megtanulás | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] (memoria) | [Text#20body] – a beszéd elsajátítása
+  447.7: [Lbl] 5. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Előadás | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] (pronuntiatio) | [Text#20body] – a beszéd előadása
+  414.9: [H2] 4. | [H2] A klasszikus szónoki beszéd szerkezeti egységei
+  388.1: [H3] 4.1. Bevezetés (exordium)
+  368.3: [Lbl] • | [Text#20body] Figyelemfelkeltés
+  352.4: [Lbl] • | [Text#20body] Kapcsolatteremtés a hallgatósággal
+  336.5: [Lbl] • | [Text#20body] A téma megjelölése
+  320.6: [Lbl] • | [Text#20body] Jóindulat megnyerése
+  290.7: [H3] 4.2. Tárgyalás (főrész)
+  270.9: [Text#20body] Ez a beszéd legterjedelmesebb része:
+  248.0: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Elbeszélés (narratio)
+  232.1: [Lbl] • | [Text#20body] Az alaphelyzet, tények ismertetése
+  216.2: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tétel (propositio / divízió)
+  200.3: [Lbl] • | [Text#20body] A szónok álláspontjának kimondása
+  184.4: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Bizonyítás (confirmatio)
+  168.5: [Lbl] • | [Text#20body] Érvek, példák, bizonyítékok felsorakoztatása
+  152.6: [Lbl] • | [Text#20body] A beszéd legfontosabb része
+  136.7: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Cáfolás (confutatio)
+  120.8: [Lbl] • | [Text#20body] Az ellenérvek megcáfolása
+  104.9: [Lbl] • | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Kitérés (digressio) | [Hangs#C3#BAlyoz#C3#A1s] (nem kötelező)
+   89.0: [Lbl] • | [Text#20body] Kiegészítés, figyelemfenntartás, hatáskeltés

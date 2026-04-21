@@ -1,0 +1,53 @@
+﻿  773.9: [Standard] A szöveg elolvasása után
+  772.0: [Standard] A szövegértés technikája
+  760.1: [Standard] a) Összefoglalás | [Standard] (szintézis): saját szavainkkal, a legfontosabbakat kiemelve
+  746.3: [Standard] b) Önellenőrzés | [Standard] kérdésekkel: definíciók, tények, összefüggések
+  741.7: [Standard] Az olvasás aktív gondolkodási folyamat | [Standard] . Olvasás közben | [Standard] párbeszédet | [Standard] folytatunk a
+  732.5: [Standard] c) A szöveg megbeszélése: | [Standard] magyarázat, véleménykifejtés, értékelés, vita
+  727.9: [Standard] szöveggel, kérdéseket teszünk fel önmagunknak, és válaszokat várunk a szövegtől.
+  718.7: [Standard] d) | [Standard] Reflektálás | [Standard] a szövegre
+  700.3: [Standard] A | [Standard] tanulás | [Standard] egyik legfontosabb | [Standard] eszköze | [Standard] az olvasás. Az olvasás közben működő
+  686.5: [Standard] gondolkodási folyamatok azonosítása és tudatosítása hatékonyabbá és sikeresebbé teheti
+  672.7: [Standard] a tanulási folyamatot is.
+  645.1: [Standard] Felkészülés az olvasásra
+  631.3: [Standard] a) | [Standard] Az | [Standard] olvasás céljának | [Standard] tisztázása. Ennek alapján különböztetjük meg az olvasás
+  617.5: [Standard] különböző típusait.
+  603.7: [Standard] - | [Standard] Szelektív | [Standard] (kereső) olvasás: amikor hosszabb szövegben konkrét
+  589.9: [Standard] információt akarunk megtalálni.
+  576.1: [Standard] - | [Standard] Áttekintő | [Standard] olvasás: A szöveget csak átfutjuk a szemünkkel, hogy kiderítsük,
+  562.3: [Standard] miről szólhat. Ilyenkor csak néhány lényeges pontot, kulcsinformációt
+  548.5: [Standard] emelünk ki és olvasunk el (pl. címek, alcímek).
+  534.7: [Standard] - | [Standard] Beleolvasás | [Standard] : Tájékozódás céljából elolvasunk egy rövidebb részletet a
+  520.9: [Standard] szövegből (pl. könyvválasztásnál a könyvesboltban).
+  507.1: [Standard] - | [Standard] Részletes | [Standard] olvasás: Ezt használjuk a leggyakrabban. Ilyenkor minden
+  493.3: [Standard] mondatot elolvasunk az elejétől a végéig.
+  479.5: [Standard] b) | [Standard] Ismerkedés | [Standard] a szöveggel
+  465.7: [Standard] Az olvasás megkezdése előtt érdemes átlapozni a szöveget, hogy | [Standard] átfogó
+  451.9: [Standard] képet | [Standard] kapjunk a hosszáról, a tartalmáról, felépítéséről. Ennek lépései
+  438.1: [Standard] lehetnek:
+  424.3: [Standard] - a szöveg címeinek, alcímeinek áttekintése
+  410.5: [Standard] - képek, ábrák, táblázatok áttekintése
+  396.7: [Standard] - tipográfiai eszközök (betűméret, aláhúzás, írásmód, stb.) megfigyelése
+  382.9: [Standard] (hogyan segítenek ezek a szöveg mondanivalójának könnyebb
+  369.1: [Standard] megértésében)
+  355.3: [Standard] - a szöveg felépítésének megismerése (bekezdések sorrendje,
+  341.5: [Standard] tételmondatok azonosítása, tartalomjegyzék)
+  327.7: [Standard] c) Előzetes tudás aktiválása
+  313.9: [Standard] - előzetes tapasztalatok összegyűjtése a témáról
+  300.1: [Standard] - fogalmazzunk meg felvetéseket, kérdéseket a szöveggel kapcsolatban
+  272.5: [Standard] Tevékenységek olvasás közben
+  258.7: [Standard] a) | [Standard] Szakaszos olvasás: | [Standard] az egyes szakaszok végén megállunk, végiggondoljuk,
+  244.9: [Standard] saját szavainkkal megfogalmazzuk a szakaszban olvasottakat
+  231.1: [Standard] b)  Az olvasottak tisztázása: | [Standard] a megértés folyamatos (ön)ellenőrzése (világos-e a
+  217.3: [Standard] szöveg gondolatmenete; vannak-e a szövegben homályos pontok)
+  203.5: [Standard] Ennek lehetséges elemei:
+  189.7: [Standard] - a szöveg logikai kötőelemeinek tisztázása
+  175.9: [Standard] - a szövegtopikok és szövegfókuszok változásának megfigyelése
+  162.1: [Standard] - nehezebb részek újraolvasása
+  148.3: [Standard] - visszatekintés a már elolvasott szövegrészekre az összefüggések
+  134.5: [Standard] felismerése érdekében
+  120.7: [Standard] - olvasás közben tegyünk fel kérdéseket (→ aktív figyelem)
+  106.9: [Standard] - olvasás közben értékeljük az olvasottakat a már meglévő tudásunk,
+   93.1: [Standard] tapasztalataink tükrében
+   79.3: [Standard] c) Lényegkiemelés
+   65.5: [Standard] Ennek eszközei lehetnek: aláhúzás, széljegyzet, kézzel írt jegyzet, stb.

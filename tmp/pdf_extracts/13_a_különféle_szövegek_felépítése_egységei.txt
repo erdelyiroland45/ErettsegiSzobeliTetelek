@@ -1,0 +1,34 @@
+﻿  772.0: [Standard] A különféle szövegek felépítése, egységei
+  741.7: [Standard] Maga a szöveg
+  714.1: [Standard] A szöveg a nyelv és a beszéd legnagyobb egysége. Írott és élőbeszédbeli formában
+  700.3: [Standard] jelenik meg. A közlő és a befogadó kommunikációs kapcsolatában a teljesség és lezártság
+  686.5: [Standard] érzetét kelti. Kifejezi a kommunikációs partnerek gondolati, érzelmi, hangulati állapotát,
+  672.7: [Standard] szándékaikat és akaratukat. A kommunikációs funkciók mindegyike megjelenhet benne.
+  631.3: [Standard] A szöveg szerkezeti egységei, felépítése
+  603.7: [Standard] A legáltalánosabban használható szövegszerkezet három részből áll: | [Standard] bevezetés,
+  589.9: [Standard] tárgyalás, befejezés | [Standard] , ez a szöveg | [Standard] makroszerkezeti | [Standard] sémája. Írott és élőbeszédbeli
+  576.1: [Standard] szövegeink tagolása látható vagy érzékelhető szövegtömbökből/mondattömbökből áll,
+  562.3: [Standard] ezek a szövegrészek a mondathalmazok, a bekezdések | [Standard] (mikroszerkezet) | [Standard] .
+  534.7: [Standard] A | [Standard] bevezetés | [Standard] a szöveg tartalmának előkészítése, a téma meghatározása. Funkciója szerint
+  520.9: [Standard] megismerteti az olvasóval vagy a hallgatóval a közlő nézőpontját, szándékait. A | [Standard] tárgyalás
+  507.1: [Standard] terjedelmében a legnagyobb szövegrész, a téma kifejtésére szolgál. A belső szerkezete
+  493.3: [Standard] sokféle lehet. A | [Standard] befejezés | [Standard] (zárás) rendszerint összefoglalás, összegzés.
+  465.7: [Standard] A szöveg felépítésének lehetséges szerkezeti sémái:
+  438.1: [Standard] A téma időrendre épülő, azaz | [Standard] lineáris | [Standard] előadásmódja.
+  410.5: [Standard] A láncolatszerű szerkezet másik változata a | [Standard] térbeli építkezés.
+  396.7: [Standard] - a közelebbitől a távolabbi felé
+  382.9: [Standard] - vagy a távolabbitól a közelebbi irányba
+  369.1: [Standard] - | [Standard] vagy | [Standard] körkörös | [Standard] építkezés
+  341.5: [Standard] A szöveg keretes szerkezetű is lehet, ebben az esetben pl. a bevezető és lezáró rész
+  327.7: [Standard] ismétlődő elemeket tartalmaz.
+  300.1: [Standard] A szöveg épülhet | [Standard] párhuzamosságra, | [Standard] vagy | [Standard] ellentétezésre. | [Standard] A párhuzamon alapuló
+  286.3: [Standard] szövegszerkezet a jelenségek közti hasonlóságot helyezi előtérbe. Ellentétes szerkezetet
+  272.5: [Standard] alkothatunk, ha egymással ellentétes vélemény, álláspont előadása a feladatunk (pl.:
+  258.7: [Standard] érvelő vagy vitaindító szövegben érv-ellenérv, vagy vélemények ütközése).
+  231.1: [Standard] Logikai szerkezet: | [Standard] ha nem az idő vagy a tér alapján szerveződik a szöveg, hanem a téma
+  217.3: [Standard] előadásában a közlő gondolkodásmódja tükröződik (pl.: ok-okozati kapcsolat). Érvelő
+  203.5: [Standard] szövegben az érvek sorrendjének meghatározása dönti el a szövegszerkezet irányultságát
+  189.7: [Standard] (pl.: a legerősebb érv legelöl, stb.).
+  162.1: [Standard] Asszociatív, azaz képzettársításos szövegszerkezet: | [Standard] a téma egyes részelemeinek
+  148.3: [Standard] előadását a közlő gondolatai, érzelmei vezérlik, de az egyes részeket nem a logikai rend
+  134.5: [Standard] kapcsolja össze.

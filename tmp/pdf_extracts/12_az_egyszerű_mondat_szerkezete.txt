@@ -1,0 +1,90 @@
+﻿  773.9: [H4] 4. A mondatrészek egymással grammatikai vagy logikai viszonyban állnak, ez a | [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tagadó felkiáltás: | [Text#20body] Pl.: | Ne | nyúlj | a | ládához!
+  772.0: [Standard] Az egyszerű mondat szerkezete
+  760.1: [H4] szószerkezet (szintagma).
+  758.1: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Kérdő eldöntendő: | [Text#20body] Pl.: | Nem | kérsz | kekszet?
+  742.2: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tagadó kiegészítő kérdés: | [Text#20body] Pl.: | Miért | nem | kérsz | kekszet?
+  726.4: [Text#20body] A | felszólító | mondatot, | ha | tagadom, | akkor | tiltó | mondat | lesz.
+  725.6: [Text#20body] A | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] mondat | [Text#20body] a | szöveg | egysége, | viszonylag | önálló, | kerek | egész. | A | mondat | építőelemei | a
+  717.5: [Text#20body] a) | [Text#20body] H | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] ozzárendelő szintagma | [Text#20body] : | tagjai | az | alany | és | az | állítmány, | közöttük | egyenrangú
+  709.8: [Text#20body] szavak, | melyek | bizonyos | [Text#20body] nyelvtani | kapcsolatban | állnak | egymással.
+  701.6: [Text#20body] a | viszony, | együttesen | a | mondat | központi | magvát | alkotják | A | mondat | fő | részeként
+  694.7: [Text#20body] 3. A mondat mondatrészekből áll. A mondatrész szófaji és alaktani sajátosságok
+  686.9: [H4] 1. | [H4] Szerkezet szerint lehet:
+  685.8: [Text#20body] elemzéskor | a | mondat | első | nyelvtani | szintjén | helyezkednek | el.
+  678.8: [Text#20body] alapján állítmány, alany, tárgy, határozó és jelző lehet.
+  671.5: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Egyszerű mondat | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] :
+  655.6: [Text#20body] Az | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] egyszerű mondat | [Text#20body] egy | tagmondatból | áll. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Fajtái:
+  654.1: [Text#20body] b) | [Text#20body] Az | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] alárendelő szintagma | [Text#20body] : | tagjai | az | alaptag | és | a | meghatározó | tag | vagy
+  647.1: [Text#20body] a) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Állítmány
+  639.8: [Text#20body] a) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tőmondat | [Text#20body] : | csak | alanyból | és | állítmányból | áll. | Pl.: | Ádám | iszik.
+  638.2: [Text#20body] bővítmény. | Az | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] alaptag | [Text#20body] a | mondaton | belül | egy | szinttel | feljebb | helyezkedik | el | /pl.
+  631.3: [Text#20body] A | mondatnak | az | alannyal | kapcsolatos | történést, | minőséget | vagy | más | körülményt | kifejező
+  623.9: [Text#20body] b) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Bővített mondat | [Text#20body] : | az | alanyon | és | állítmányon | kívül | más | mondatrészt | /szintagmát | i
+  622.4: [Text#20body] alany, | állítmány, | más | mondatrész/, | a | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] meghatározó tag | [Text#20body] az | alaptagnak | lehet | tárgya,
+  615.4: [Text#20body] igei | vagy | igei-névszói | vagy | névszói | része.
+  608.1: [Text#20body] s | tartalmaz/. | Pl.: | Ádám | vizet | iszik.
+  606.5: [Text#20body] határozója | vagy | jelzője. | Az | alaptagból | kérdezhetünk | a | bővítményre.
+  599.6: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] igei: | [Text#20body] mutatja | a | modalitást | (módjelek), | az | idővonatkozást | (időjelek), | az | alany
+  592.2: [Text#20body] c) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Hiányos mondat | [Text#20body] : | vagy | az | alany | vagy | az | állítmány | hiányzik. | Az | állítmány
+  583.7: [Text#20body] számát | és | személyét | (igeragok), | a | tárgy | határozott | vagy | határozatlan | voltát | (tárgyas
+  576.4: [Text#20body] elmaradása | mindig | hiányos | mondatot | okoz, | az | alany | elmaradása | nem | feltétlenül,
+  574.8: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] c) A mellérendelő szintagma | [Text#20body] : | két | vagy | több | azonos
+  567.9: [Text#20body] és | tárgyatlan | igék; | alanyi | és | tárgyas | ragozás), | s | utal | a | tárgy | személyére | is.
+  560.5: [Text#20body] hiszen | az | igei | személyragok | egyértelműen | kijelölik | az | alany | számát, | személyét. | Pl.:
+  559.0: [Text#20body] mondatrész, | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] halmozott | [Text#20body] mondatrész | egyenrangú | kapcsolata
+  552.0: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] névszói | [Text#20body] : | a | 3.sz. | alanyt | jelöli | kijelentő | mód | jelen | időben | pl. | A | [Span] veréb | [Span] madár | [Text#20body] .
+  544.7: [Text#20body] Vizet | iszik.
+  536.2: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] névszói–igei: | [Text#20body] összetett: | névszói | rész: | + | létige | (+marad, | múlik) | pl. | A | [Span] madár | [Span] veréb
+  528.8: [Text#20body] d) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tagolatlan | [Text#20body] : | nem | tartalmaznak | alany-állítmányi | szerkezetet | Pl.: | Segítség!
+  527.3: [H4] 6. Az egyszerű mondat szintjei:
+  520.3: [Span] volt. | [Text#20body] Ha | a | létigét | tartalmazó | mondatot | kijelentő | mód, | jelen | idő, | E/3-be | téve | a | létige
+  511.8: [Lbl] 1. | [Text#20body] szint: | alany–állítmány | (hozzárendelő | szintagma); | kölcsönösen
+  504.5: [Text#20body] eltűnik, | akkor | az | állítmány | névszói, | ha | megmarad, | akkor | igei
+  497.1: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Összetett mondat:
+  496.0: [Text#20body] meghatározzák | egymást.
+  481.3: [Text#20body] Az | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] összetett mondat | [Text#20body] több | tagmondatból | áll.
+  480.1: [Lbl] 2. | [Text#20body] szint: | az | alany | és | állítmány | bővítményei; | a | szórend | kötetlen.
+  472.8: [Text#20body] b) | [Text#20body] A | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] lany
+  465.4: [H4] A | beszélő | szándéka | szerint | lehet:
+  456.9: [Text#20body] A | mondatnak | az | a | része, | amely | megjelöli | azt, | akiről, | amiről | az | állítmánnyal | mondunk
+  450.0: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Kijelentő mondat: | [Text#20body] Egyszerű | közlést, | nyugodt | hangú | meg-állapítást | jelent.
+  441.1: [Text#20body] valamit. | Főnév, | vagy | főnévként | használt | szó.
+  434.1: [Text#20body] A | beszédben | a | hangsúlya | egyenletes, | nyugodt, | hangleejtése | ereszkedő,
+  425.2: [Text#20body] – | [Text#20body] H | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] atározott | [Text#20body] alany
+  418.3: [Text#20body] írásban | a | mondat | végére | pontot | teszünk. | Pl.: | Ma | este | későn | megyek | haza.
+  409.4: [Text#20body] – | [Text#20body] H | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] atározatlan | [Text#20body] alany: | kifejezhetjük | határozatlan | névmással | (valaki, | valami), | T/3-ű
+  402.4: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Kérdő mondat:
+  393.5: [Text#20body] állítmánnyal
+  379.6: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – eldöntendő: | [Text#20body] a | válasz | igen | vagy | nem | lehet. | A | hangsúlya | nyugodt,
+  377.7: [Text#20body] – | [Text#20body] Á | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] ltalános | [Text#20body] alany: | kifejezhetjük | általános | névmással | (akárki, | bárki), | az | „ember”
+  363.7: [Text#20body] hangleejtése | emelkedő, | ereszkedő. | Pl.: | Látod | ezt?
+  361.8: [Text#20body] szóval, | az | állítmány | ragozásával | (T/1., | T/3., | E/T/2.)
+  347.9: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – kiegészítő: | [Text#20body] a | válasz | hosszabb | terjedelmű, | a | kérdés | kérdőszóval
+  346.0: [Text#20body] – | [Text#20body] T | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] apadásos | [Text#20body] alany: | az | alany | fogalma | hozzátapadt | az | állítmányhoz | (pl.: | terítve | van)
+  332.0: [Text#20body] kezdődik, | a | hangleejtés | ereszkedő. | Mondatvégi | írásjele | a | kérdőjel. | Pl.:
+  330.1: [Text#20body] – | [Text#20body] A | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] lanytalan | [Text#20body] mondatok | – | az | időjárásra, | napszakra | vonatkoznak: | Dörög. | Villámlik.
+  316.2: [Text#20body] Hogy | vagy?
+  298.4: [Text#20body] c) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tárgy
+  284.5: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Felkiáltó mondat: | [Text#20body] hangsúlya | erőteljes, | hangleejtése | ereszkedő. | Érzelmet
+  282.6: [Text#20body] Azt | a | fogalmat | nevezi | meg, | melyre | az | igei | állítmánnyal, | vagy | más | igenévi | mondatrésszel
+  268.6: [Text#20body] fejez | ki. | Mondatvégi | írásjele | a | felkiáltó | jel. | Pl.: | Fáj | az | ujjam!
+  266.7: [Text#20body] kifejezett | cselekvés | irányul | (iránytárgy), | illetőleg | amelyet | ez | a | cselekvés | eredményez
+  252.8: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Felszólító mondat: | [Text#20body] Kérést, | parancsot | vagy | tiltást | fejez | ki. | Hangleejtése
+  250.9: [Text#20body] (eredménytárgy)
+  236.9: [Text#20body] ereszkedő, | mondatvégi | írásjele | a | felkiáltó | jel.
+  219.2: [Text#20body] d) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Határozó
+  214.1: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Tiltószavak: | [Text#20body] ne, | se
+  203.3: [Text#20body] A | mondatban | kifejezett | cselekvés | körülményeit | fogalmazza | meg. | [Text#20body] Fontosabb határozók | [Text#20body] :
+  198.2: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Tagadó szavak: | [Text#20body] nem, | sem
+  187.5: [Text#20body] hely-, | idő-, | szám-, | állapot-, | eredet-, | eredmény-, | társ-, | mód-, | eszköz-, | fok-mérték-, | ok-, | cél-,
+  175.4: [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] – Óhajtó mondat: | [Text#20body] Érzelmet, | vágyat | fejez | ki. | Gyakran | indulat-szóval
+  171.6: [Text#20body] részes-, | állandó | határozó
+  159.5: [Text#20body] kezdődik, | az | állítmány | feltételes | módú. | Hangleejtése | lebegő. | Mondatvégi
+  143.7: [Text#20body] írásjele | a | felkiáltó | jel.
+  139.9: [Text#20body] e) | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Jelző
+  124.1: [Text#20body] Az | a | mondatrész, | amely | a | vele | szerkezetet | alkotó | névszó | tulajdonságát, | helyét,
+  108.2: [Text#20body] mennyiségét | vagy | birtokosát | fejezi | ki. | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Fajtái: | [Text#20body] minőség-, | mennyiség-, | birtokos-, | értelmező
+  105.0: [H4] 2 | [H4] . | [H4] Mind az öt mondatfajta logikailag lehet állító vagy tagadó:
+   92.4: [Text#20body] jelző
+   89.5: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tagadó kijelentés: | [Text#20body] Pl.: | nem | akarok | elmenni | ma | délután.
+   73.7: [Text#20body] – | [Er#C5#91s#20hangs#C3#BAlyoz#C3#A1s] Tagadó óhajtás: | [Text#20body] Pl.: | Ó, | bárcsak | ne | mennék | haza!

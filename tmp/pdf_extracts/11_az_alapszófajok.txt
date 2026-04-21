@@ -1,0 +1,202 @@
+﻿  773.9: [Text#20body] - Ellentétes kötőszók: | [Standard] A | [Standard] módosítószó | [Standard] módosítja a mondatrésznek vagy az egész mondatnak a tartalmát úgy, | [Text#20body] de, ellenben, hanem, pedig, viszont | [Standard] NÉVSZÓK – A SZÁMNÉV | [Standard] NÉVSZÓK – A FŐNÉV | [Standard] HATÁROZÓSZÓK | [Standard] AZ IGE
+  772.0: [Standard] Az alapszófajok
+  760.1: [Standard] hogy kifejezi a beszélő álláspontját (pl.: | [Standard] biztosan, persze, kétségtelenül, hogyne, esetleg | [Standard] ).
+  758.1: [Text#20body] - Választó/Megengedő kötőszók: | [Text#20body] akár, ám, ámbár, bár, ha, habár, igaz hogy, noha,
+  746.3: [Standard] Az ige cselekvést, történést, létezést vagy állapotot kifejező szófaj. Az ige toldalékolható, | [Standard] A főnév a valóságban is létező, vagy elképzelt élőlények, élettelen tárgyak vagy gondolati | [Standard] A számnév személyek, dolgok, tárgyak mennyiségét, vagy sorban elfoglalt helyét kifejező | [Standard] A határozószók a cselekvés helyét, idejét, módját és egyéb körülményeit már | [Standard] A szóértékű módosítószók az utánuk álló szavak jelentését módosítják. Fajtái:
+  744.0: [Standard] Szófajoknak nevezzük a nyelvhasználatban az egyformán viselkedő, azonos
+  742.2: [Text#20body] pedig
+  732.5: [Standard] toldalékai fejezik ki az időbeliséget, módot, cselekvők számát, személyét. Az ige a | [Standard] tartalmak nevét jelölő szófaj. | [Standard] szófaj. Két csoportja: | [Standard] állapotformájukban is képesek kifejezni. Toldalékok (képzők, jelek, ragok) nélkül is | [Standard] tagadószók | [Standard] (pl.: | [Standard] nem, sem | [Standard] határozott | [Standard] ), | [Standard] tiltószók | [Standard] és | [Standard] határozatlan | [Standard] (pl.: | [Standard] ne, se | [Standard] . | [Standard] ), | [Standard] óhajtószók | [Standard] (pl.: | [Standard] bárcsak, vajha | [Standard] ).
+  730.2: [Standard] szerepet betöltő, azonos célú szavak rendszerszerű csoportjait. | [Standard] Egy-egy szófaj
+  726.4: [Text#20body] - Következményes kötőszók: | [Text#20body] eszerint, hát, tehát, így, addig
+  718.7: [Standard] mondatban | [Standard] A konkrét főnevek két csoportra oszthatók: a | [Standard] A határozott pontosan megnevezi a számot, vagy a dolog sorrendi helyét. Típusai: | [Standard] határozói viszonyt jelölnek. Toldalékolhatóak is ( | [Standard] mindig állítmány. | [Standard] köznevek | [Standard] tanulóként, ruhástul | [Standard] és a | [Standard] tulajdonnevek | [Standard] ). | [Standard] .
+  716.4: [Standard] jellemzői tehát a következők:
+  710.5: [Text#20body] - Magyarázó kötőszók: | [Text#20body] azaz, ugyanis, vagyis
+  704.9: [Standard] - A köznév több egyforma dolog közös megnevezése. Ezen belül | [Standard] - tőszámnév ( | [Standard] egy, kettő, három | [Standard] )
+  702.6: [Standard] - az adott szófaj jelentése (a beszédben, vagy írásban megjelenő használati érték,
+  691.1: [Standard] A | [Standard] Fajtái: | [Standard] cselekvést | [Standard] megkülönböztethető egyedi, gyűjtő- és anyagnév. | [Standard] - törtszámnév ( | [Standard] jelentő ige olyan tevékenységet nevez meg, amely az alany akaratától függ | [Standard] harmad | [Standard] , t | [Standard] ized, század | [Standard] MONDATSZÓK | [Standard] )
+  688.8: [Standard] szerep)
+  687.7: [Text#20body] – | [Text#20body] Alárendelő kötőszók:
+  677.3: [Standard] (pl. | [Standard] ír, olvas, tanul | [Standard] - A tulajdonnév megkülönböztető név. Lehet személy-, intézmény-, márkanév, cím, | [Standard] - sorszámnév ( | [Standard] ). A | [Standard] történést | [Standard] első, második, harmadik | [Standard] kifejező ige olyan változás, folyamat megnevezésére | [Standard] )
+  675.0: [Standard] - a szófaj alaki viselkedése (lehetséges toldalékolási lehetőségei – képzők, jelek,
+  671.8: [Text#20body] - Állítmányi: | [Text#20body] hogy, mint
+  663.5: [Standard] alkalmas szó, amely független az alany akaratától (pl. | [Standard] Határozatlan csupán általánosságban fogalmaz meg mennyiséget ( | [Standard] A | [Standard] mondatszók | [Standard] földrajzi név. | [Standard] - helyre utaló ( | [Standard] (vagy indulatszók) önmagukban tagolatlan mondatként vagy | [Standard] kint, bent, kinn, benn, belül, fenn, elöl, hátul | [Standard] megjavul, elromlik | [Standard] ) | [Standard] sok kevés, néhány | [Standard] ). A | [Standard] létezést | [Standard] ).
+  661.2: [Standard] ragok)
+  656.0: [Text#20body] - Alanyi: | [Text#20body] hogy
+  649.7: [Standard] kifejező ige az alany létét vagy nemlétét fejezi ki (pl. | [Standard] tagmondatként álló szavak. Kifejezi a beszélő érzelmeit vagy akaratát, tagolatlan | [Standard] - időre utaló ( | [Standard] egyszer, azonnal, most, rögtön, mindjárt | [Standard] van, nincs, lesz | [Standard] ) | [Standard] ). Az | [Standard] állapotot
+  647.4: [Standard] - a szófaj mondatbeli szerepe (lehetséges funkciója a mondatban)
+  640.1: [Text#20body] - Tárgyi: | [Text#20body] hogy
+  635.9: [Standard] kifejező ige is az alany szándékától független állapotot nevez meg (pl. | [Standard] A mondatban lehet jelző, állítmány, számhatározó és számállapot-határozó. | [Standard] formában. Általában nem toldalékolhatók, bár egy-két kivétel mégis akad (pl.: | [Standard] - fok-, mértékhatározó-szó ( | [Standard] alig, jócskán, nagyrészt | [Standard] ) | [Standard] bízik, fáj | [Standard] nesze → | [Standard] ).
+  633.6: [Standard] - a szófaj bővíthetősége (lehetséges bővítményei a mondatban)
+  632.7: [Table#20Contents] Köznév fajtája | [Table#20Contents] Jelentés | [Table#20Contents] Példa
+  622.1: [Standard] Három | [Standard] nesztek, szervusz → szervusztok | [Standard] - állapothatározó-szó ( | [Standard] almát vettem a piacon. | [Standard] egyedül, hanyatt, együtt, veszteg | [Standard] (mennyiségjelző) | [Standard] ). Jelentést gyakran csak a beszédhelyzetben kapnak | [Standard] )
+  617.3: [Text#20body] – | [Text#20body] Határozói mellékmondatok:
+  612.9: [Table#20Contents] Egyedi név | [Table#20Contents] Hasonló dolgok közös neve | [Table#20Contents] Fiú, lány, kutya, asztal
+  608.3: [Standard] Alanyi iktelen ragozás | [Span] Ez | [Standard] több a | [Standard] - módhatározószó ( | [Span] soknál | [Standard] . | [Standard] (állítmány) | [Standard] örömest, biztosan, gyalog | [Standard] )
+  602.8: [Table#20Contents] A mai magyar nyelv szófajainak rendszere
+  601.4: [Text#20body] - Időhatározói mellékmondatban: | [Text#20body] alig, alighogy, amíg, mikor stb.
+  594.5: [Standard] Kijelentő módban lehet múltbeli, jeleni, jövőbeli (írtam, írok, írni fogok). | [Span] Háromszor | [Standard] Fajtái: | [Standard] - eredményhatározó ( | [Standard] hívtalak ma telefonon. | [Standard] ketté, ízzé-porrá | [Standard] (számhatározó) | [Standard] )
+  593.1: [Table#20Contents] Gyűjtőnév | [Table#20Contents] Több egyedből álló csoport | [Table#20Contents] Nyáj, csorda, nép, közönség,
+  585.6: [Text#20body] - Helyhatározó mondatban: | [Text#20body] hol, hová, honnan, ahol, ahová
+  583.0: [Table#20Contents] 1. Igék | [Table#20Contents] Ír, olvas, eszik
+  580.7: [Standard] Feltételes módban múltbeli, és jeleni lehet (írtam volna, írnék). | [Span] Hárman | [Standard] - tekintethatározó ( | [Standard] - Érzelemkifejező, indulatkifejező (pl.: | [Standard] voltunk a stadionban. | [Standard] külsőleg, részben | [Standard] (számállapot-határozó) | [Standard] ) | [Standard] Jaj!, Ó!, Oh!, Fúj!, s | [Standard] tb...)
+  579.3: [Table#20Contents] neve | [Table#20Contents] emberiség
+  569.7: [Text#20body] - Módhatározói mellékmondatban: | [Text#20body] miként, miképp, minél stb.
+  566.9: [Standard] Felszólító módban csak jeleni lehet (írjak). | [Standard] - Akaratnyilvánító (pl.: | [Standard] Pszt!, Csitt!, Nana!, Hajrá! | [Standard] )
+  563.2: [Table#20Contents] 2. Névszók | [Table#20Contents] Főnév | [Table#20Contents] Iskola, ember, könyv
+  559.5: [Table#20Contents] Anyagnév | [Table#20Contents] Azonos anyagi részből álló | [Table#20Contents] Arany, réz, fa, víz, bor
+  553.9: [Text#20body] - Okhatározói mellékmondatban: | [Text#20body] hogy, holott, mert, mivel stb.
+  553.1: [Standard] - Állathívogatók, terelő mondatszók (pl.: | [Standard] cicc, spicc, pipi, hess, | [Standard] stb…)
+  549.4: [Table#20Contents] Melléknév | [Table#20Contents] Jó, rossz, szép
+  546.1: [H3] VISZONYSZÓK – NÉVELŐ, NÉVUTÓ
+  545.7: [Table#20Contents] dolgok neve
+  539.3: [Standard] Alanyi ikes ragozás: | [Standard] - Hangutánzó indulatszók (pl.: | [Standard] az iktelen igék ragozásától az alábbi esetekben tér el: | [Standard] NÉVSZÓK – A NÉVMÁSOK | [Standard] kukurikú, brekeke, háp-háp, durr, | [Standard] stb...)
+  538.0: [Text#20body] - Célhatározói mellékmondatban: | [Text#20body] arra hogy, azért hogy, nehogy
+  535.6: [Table#20Contents] Számnév | [Table#20Contents] Egy, sok, kevés
+  525.5: [Standard] - Kapcsolatteremtő szók: köszönések (pl.: | [Standard] Szia, Jó napot, Viszlát, | [Standard] stb...)
+  522.2: [Text#20body] - Részhatározói mellékmondatban: | [Text#20body] annak, olyannak stb.
+  521.8: [Table#20Contents] Névmás | [Table#20Contents] Én, magam, olyan
+  511.7: [Standard] A névmás a valódi névszókat (fő-, mellék, vagy számneveket) helyettesítő szófaj.
+  511.6: [Table#20Contents] Tulajdonnév fajtája | [Table#20Contents] Példa
+  508.5: [Table#20Contents] Jelen idő
+  506.3: [Text#20body] - Számhatározói mellékmondatban: | [Text#20body] annyiszor
+  503.5: [Text#20body] A viszonyszók nem önálló szófajok | [Text#20body] (innentől a tétel kérdőjeles, hogy alapszófajokba
+  502.0: [Table#20Contents] 3. Igenevek | [Table#20Contents] Főnévi | [Table#20Contents] Írni, olvasni, enni
+  497.9: [Standard] Önmagában nincs határozott jelentéstartalmuk, így csak a szövegkörnyezetben válnak
+  491.8: [Table#20Contents] Személynév | [Table#20Contents] Ady Endre, János, Széchenyi István
+  490.5: [Text#20body] - Állapothatározói mellékmondatban: | [Text#20body] ahelyett hogy,
+  488.7: [Table#20Contents] Kijelentő mód | [Table#20Contents] Feltételes mód | [Table#20Contents] Felszólító mód
+  488.2: [Table#20Contents] Melléknévi | [Table#20Contents] Evő, eltört, törött
+  487.6: [Text#20body] tartozik-e, de elvégre hasznos, így itt van, a kurva anyádat) | [Text#20body] , önmagukban nem
+  484.1: [Standard] tartalommal bíró szavakká. Helyettesítési szerep alapján lehetnek egyirányúak (csak
+  474.6: [Text#20body] - Szám-állapothatározói mellékmondatban: | [Text#20body] annyian
+  474.4: [Table#20Contents] Határozói | [Table#20Contents] Írva, beszélve, olvasván
+  472.0: [Table#20Contents] Földrajzi név | [Table#20Contents] Magyarország, Dunántúl, Duna
+  471.8: [Text#20body] hordoznak jelentést. Hangalakjuk és szófajuk van, de önmagukban nem fordulnak elő,
+  470.3: [Standard] főnevet helyettesítő) és többirányúak (főnevet, melléknevet, számnevet helyettesítő).
+  468.9: [Table#20Contents] E/1 | [Table#20Contents] alszom | [Table#20Contents] aludnám | [Table#20Contents] aludjam
+  458.8: [Text#20body] - Eszközhatározói mellékmondatban: | [Text#20body] azzal (ami)
+  455.9: [Text#20body] csak más szabad morfémákkal együtt alkalmasak mondatrészi szerep betöltésére. A
+  454.6: [Table#20Contents] 4. Határozószók | [Table#20Contents] Itt, bent, tegnap
+  452.2: [Table#20Contents] Intézménynév | [Table#20Contents] Nemzeti Színház, Pénzügyminisztérium
+  449.1: [Table#20Contents] E/2 | [Table#20Contents] alszol | [Table#20Contents] aludnál | [Table#20Contents] aludjál
+  442.9: [Text#20body] - Társhatározói mellékmondatban: | [Text#20body] azzal, olyannal (aki)
+  442.7: [Standard] Egyirányú (főnévi) névmások
+  440.1: [Text#20body] nyelvészet ezért segédszóknak is nevezi őket. | [Text#20body] Fajtái | [Text#20body] : névelő, névutó, kötőszó, igekötő,
+  434.8: [Table#20Contents] 5. Viszonyszók | [Table#20Contents] Névelő | [Table#20Contents] A, az, egy
+  432.4: [Table#20Contents] Cím | [Table#20Contents] Élet és Irodalom, Nők Lapja, Szózat
+  429.3: [Table#20Contents] E/3 | [Table#20Contents] alszik | [Table#20Contents] aludnék | [Table#20Contents] aludjék
+  428.9: [Span] Személyes névmás | [Standard] : helyettesíti személyek, dolgok, fogalmak nevét ( | [Standard] én, te ő, mi, ti, ők | [Standard] ).
+  427.1: [Text#20body] - Fok-mértékhatározói mellékmondatban: | [Text#20body] úgy, annyira stb.
+  424.2: [Text#20body] segédige, módosítószó.
+  421.0: [Table#20Contents] Névutó | [Table#20Contents] Előtt, alatt, múlva
+  415.1: [Span] Birtokos névmás | [Standard] : olyan élőre vagy élettelenre vonatkozik, amely birtokos viszonyban áll a
+  412.6: [Table#20Contents] Márkanév | [Table#20Contents] Coca-Cola, Suzuki, Chanel, Biopon
+  411.2: [Text#20body] - Hasonlító határozói mellékmondatban: | [Text#20body] annál, azoknál
+  407.2: [Table#20Contents] Kötőszó | [Table#20Contents] És, s, meg
+  401.4: [Text#20body] Névelő | [Text#20body] : A névelő az utána álló főnév határozottságát (a, az) vagy éppen
+  401.3: [Standard] beszélővel/beszélőkkel ( | [Standard] enyém, enyéim, tied, tieid | [Standard] ).
+  398.4: [Standard] A cselekvés tárgyra irányultsága alapján megkülönböztetünk | [Standard] tárgyas | [Standard] (határozott) és
+  395.4: [Text#20body] - Tekintethatározói mellékmondatban: | [Text#20body] annyiban, ahhoz képest
+  393.4: [Table#20Contents] Igekötő | [Table#20Contents] Be-, ki-, le-, el-, össze-
+  387.5: [Span] Visszaható névmás | [Standard] : a cselekvésnek az alanyra való visszahatását fejezi ki ( | [Standard] magam,
+  385.5: [Text#20body] határozatlanságát (egy) fejezi ki. Pl.: Péter a könyvet olvassa. ill. Péter egy könyvet olvas.
+  384.6: [Standard] tárgyatlan | [Standard] (határozatlan) igéket. A tárgyas igéket a mondatban lehet tárggyal bővíteni,
+  381.7: [Standard] A főnév bármilyen mondatrész szerepét betöltheti a mondatban:
+  379.6: [Table#20Contents] Segédige | [Table#20Contents] Van, lesz, marad, múlik
+  379.5: [Text#20body] - Eredethatározói mellékmondatban: | [Text#20body] abból hogy, arról hogy stb.
+  373.7: [Standard] magunk, magatok | [Standard] ).
+  370.8: [Standard] míg a tárgyatlanoknál ez nem lehetséges.
+  369.7: [Text#20body] A főnév előtt áll.
+  367.9: [Standard] Peti apukája mérnök. | [Standard] (mérnök → állítmány)
+  365.8: [Table#20Contents] Módosítószó | [Table#20Contents] Nem, talán, bizony
+  363.7: [Text#20body] - Véghatározói mellékmondatban: | [Text#20body] abba hogy, afelé hogy stb.
+  359.9: [Span] Kölcsönös névmás | [Standard] : kifejezi, hogy a névmás által jelölt személyek vagy dolgok egymáson
+  357.0: [Standard] A tárgyas igék esetében ez a ragozásukban is érvényesül, tehát határozott tárgy esetében
+  354.1: [Standard] Peti moziba ment. | [Standard] (Peti → alany)
+  346.8: [Text#20body] Névutó | [Text#20body] : A névutó szerepe, hogy az előtte álló névszót a mondatban határozza,
+  346.1: [Standard] végeznek valamilyen cselekvést ( | [Standard] egymás | [Standard] ).
+  346.0: [Table#20Contents] 6. Mondatszók | [Table#20Contents] Indulatszó | [Table#20Contents] Jaj, ejha, ó
+  343.2: [Standard] határozott ragozás | [Standard] ( | [Standard] pl. | [Standard] olvassa a könyvet | [Standard] ), határozatlan tárgy esetén | [Standard] általános ragozás
+  340.8: [Text#20body] – | [Text#20body] Jelzői mellékmondatok:
+  340.3: [Standard] Petit mindenki szereti. | [Standard] (Peti → tárgy)
+  332.2: [Table#20Contents] Felelőszó | [Table#20Contents] Persze, igen, nem
+  331.0: [Text#20body] pontosítsa. Önálló alakkal rendelkezik. Pl.: | [Text#20body] az asztal mögött, a szék alatt, a tábla mellett.
+  329.4: [Standard] (pl. | [Standard] olvas egy könyvet | [Standard] ). Mivel a tárgyatlan igék (pl. visszaható ige, szenvedő ige) tárggyal
+  326.5: [Standard] Peti moziba ment. | [Standard] (moziban → helyhatározó)
+  325.0: [Text#20body] - Minőségjelzői mellékmondatban: | [Text#20body] amilyen, amekkora
+  318.5: [Standard] Többirányú névmások
+  318.4: [Table#20Contents] Tagadószó | [Table#20Contents] Nem, sem, ne, se
+  315.6: [Standard] nem bővíthetők a mondatban, ezért ragozásuk mindig alanyi (pl. | [Standard] mosakodik, törölközik,
+  315.1: [Text#20body] Előfordul a névszó előtt is, ebben az esetben határozószó-szerűen viselkedik. A
+  312.7: [Standard] Peti szemüvege eltört. | [Standard] (Peti → birtokos jelző)
+  309.1: [Text#20body] - Mennyiségjelzői mellékmondatban: | [Text#20body] amennyi
+  304.7: [Span] Mutató névmás | [Standard] : | [Standard] ez, az, ilyen, olyan, akkora, annyi
+  301.8: [Standard] megy | [Standard] ).
+  299.3: [Text#20body] nyelvhasználatban ennek az eljárásnak stilisztikai, retorikai szerepe és értéke van, ez
+  293.3: [Text#20body] - Birtokos jelzői mellékmondatban: | [Text#20body] annak (aki)
+  290.9: [Span] Kérdő névmás: | [Standard] ki, kik, kit, mi, mik, mit, milyen, mekkora, mennyi
+  287.5: [Standard] A szavak közt akad olyan is, amely több szófaji csoportba is tartozhat használata szerint.
+  283.4: [Text#20body] pedig a tartalmi vagy hangulati erősítés, pl.: | [Text#20body] dacára annak, közel a tűzhöz, „Túl a réten…”
+  277.4: [Text#20body] - Értelmező jelzői mellékmondatban: | [Text#20body] hogy
+  277.1: [Span] Vonatkozó | [Standard] : | [Standard] aki, ami, amely, amilyen, ahány, amennyi, amekkora
+  273.7: [Standard] Amennyiben egy szócsoport két szófaj tulajdonságait is hordozza, | [Standard] átmeneti szófajúnak
+  271.3: [Standard] NÉVSZÓK – A MELLÉKNÉV
+  271.0: [Table#20Contents] Igefajta | [Table#20Contents] Jelentés | [Table#20Contents] Képző | [Table#20Contents] Példa
+  267.6: [Text#20body] (Petőfi: A Tisza)
+  263.3: [Span] Határozatlan | [Standard] : | [Standard] valami, valamilyen, némelyik, néhány
+  259.9: [Standard] nevezhetők.
+  251.7: [Text#20body] A hivatalos stílus mondatszerkesztési rendszerében is helyet kap, bár kissé nehézkes és
+  251.2: [Table#20Contents] Cselekvő ige | [Table#20Contents] A cselekvő az alany | [Table#20Contents] Ír, olvas, tanul
+  249.5: [Span] Általános | [Standard] : | [Standard] bárki, akárki, akárhol, mindegyik, semmilyen
+  243.7: [Standard] A melléknév személyek, tárgyak, dolgok | [Standard] tulajdonságait | [Standard] (pl.: | [Standard] szép, rút, magas | [Standard] ) | [Standard] ,
+  240.8: [Standard] VISZONYSZÓK – IGEKÖTŐ, SEGÉDIGE, MÓDOSÍTÓSZÓ
+  235.9: [Text#20body] érezhető a beszédidegen hatása, pl.: | [Text#20body] ellentétben kérésével…, tekintettel a helyzetre…
+  232.3: [Standard] Kereszteződő szófajúságról | [Standard] beszélhetünk akkor, ha a szócsoport elemeiben több szófaj
+  231.4: [Table#20Contents] Műveltető ige | [Table#20Contents] Az alany mással | [Table#20Contents] -at/-et, -tat/-tet | [Table#20Contents] Irat, olvastat, ásat
+  229.9: [Standard] minőségét, és hovatartozását | [Standard] (pl.: | [Standard] tokaji, érdi, egri, esztergomi | [Standard] ) | [Standard] kifejező szófaj.
+  218.5: [Standard] tulajdonsága mutatkozik meg egyszerre (pl. vonatkozó névmási határozók: ahol, amikor,
+  217.6: [Table#20Contents] végeztet cselekvést
+  216.1: [Standard] A melléknévnek nincsenek fajtái. A valósághoz való viszonya alapján azonban
+  213.2: [Standard] Az | [Standard] igekötő | [Standard] igéhez, igenévhez vagy más, igéből képzett származékszóhoz kapcsolódó
+  213.0: [Text#20body] Névutói határozószók | [Text#20body] : | [Text#20body] mellettem, előttem, mögöttem, stb.
+  208.1: [Standard] IGENEVEK
+  204.7: [Standard] ameddig).
+  202.3: [Standard] megkülönböztethetünk érzékelhető, és elvont dolgot kifejező melléknevet:
+  199.4: [Standard] viszonyszó, amely módosítja a szó jelentését (pl.: - | [Standard] ki + néz = kinéz, -be + lát = belát | [Standard] ).
+  197.8: [Table#20Contents] Szenvedő ige | [Table#20Contents] Az alany elszenvedi | [Table#20Contents] -atik/-etik, -tatik/-tetik | [Table#20Contents] Megadatik, születik
+  188.5: [Standard] - Érzékelhető: | [Standard] kicsi, nagy, piros
+  185.6: [Standard] Alakilag önálló, de önálló jelentése nincs. Jelentésmódosítása leggyakrabban irányt,
+  184.0: [Table#20Contents] a cselekvést
+  180.5: [Standard] Az igenév átmeneti szófaj, amelyben az igéből képzett szó lehet főnévi, melléknévi,
+  177.1: [Standard] A | [Standard] kettős, hármas szófajú szavak | [Standard] alaki viselkedésük és mondatbeli szerepük alapján két
+  174.7: [Standard] - Elvont: | [Standard] bátor, gyáva, okos
+  171.8: [Standard] időbeliséget jelez, vagy jelentést változtat (Gyakori igekötők pl.: | [Standard] abba-, alul-, alá-, hátra-,
+  166.7: [Standard] határozószói és igei, azaz mindkét szófajra jellemző tulajdonsággal rendelkezik.
+  164.2: [Table#20Contents] Visszaható ige | [Table#20Contents] A cselekvés | [Table#20Contents] -kodik/-kedik/-ködik/- | [Table#20Contents] Mosakodik,
+  163.3: [Standard] vagy több szófajba tartozhatnak.
+  160.3: [H3] VISZONYSZÓK – KÖTŐSZÓ
+  158.0: [Standard] stb…).
+  152.9: [Standard] Szerkezete szerint igéből (tő) és képzőből áll.
+  150.4: [Table#20Contents] visszahat az alanyra | [Table#20Contents] ódik/-ődik | [Table#20Contents] fésülködik
+  147.1: [Standard] A mondatban általában jelző, de lehet állítmány vagy határozó is:
+  140.5: [Text#20body] A kötőszó szerepe, hogy mondatrészeket vagy mondatokat (az összetett mondat
+  139.1: [Standard] Főnévi igenév: | [Standard] képzője a -ni/-nni (pl.: | [Standard] enni, inni, írni, olvasni | [Standard] ). A mondatban főként alany,
+  133.3: [Standard] A szőke Béla moziba ment. | [Standard] (szőke → minőségjelző)
+  130.6: [Table#20Contents] Ható ige | [Table#20Contents] A cselekvés | [Table#20Contents] -hat/-het | [Table#20Contents] Írhat, jöhet, mehet
+  130.4: [Standard] A | [Standard] segédige | [Standard] olyan igei jellegű szófaj, amely a mód-, idő-, szám- és személyviszonyok
+  125.3: [Standard] tárgy, határozó szerepet kap.
+  124.7: [Text#20body] tagmondatait) kapcsoljon össze.
+  119.5: [Standard] Béla hangja érdes. | [Standard] (érdes → névszói állítmány)
+  116.8: [Table#20Contents] lehetőségét fejezi ki
+  116.6: [Standard] kifejezésére alkalmas. Nem önálló mondatrész, más mondatrészekkel nem kapcsolódik.
+  111.5: [Standard] Melléknévi igenév: | [Standard] képzője az -ó, -ő (folyamatos), -t, -tt (befejezett), -andó, -endő (beálló)
+  105.7: [Standard] Szépen szól az ének. | [Standard] (szépen → módhatározó)
+  102.8: [Standard] Miközben jelentésül elvesztette önállóságát, önálló alakjuk megmaradt, ezért az álszavak
+  101.8: [Text#20body] – Mellérendelő kötőszók:
+   97.7: [Standard] (pl.: | [Standard] olvasó, olvasott, olvasandó | [Standard] ). A mondatban általában jelző és állítmány
+   89.0: [Standard] (állexémák) csoportjába soroljuk.
+   86.0: [Text#20body] - Elválasztó kötőszók: | [Text#20body] és, illetve, vagy, avagy, vagy–vagy
+   83.9: [Standard] Határozói igenév: | [Standard] képzője a -va, -ve, -ván, -vén (pl.: | [Standard] írva, olvasva, sietve, olvasván | [Standard] ) A
+   78.1: [Standard] A melléknév leggyakrabban | [Standard] határozóval | [Standard] bővíthető | [Standard] , de bővíthető | [Standard] jelzővel | [Standard] is, ezen felül a
+   70.1: [Standard] mondatban rendszerint mód- vagy állapothatározó. | [Text#20body] - Kapcsolatos kötőszók: | [Text#20body] és, is, meg, még, aztán, szintén
+   64.3: [Standard] melléknév | [Standard] fokozható | [Standard] : alap-, közép- és felsőfok (pl.: | [Standard] jó, jobb, legjobb | [Standard] ).

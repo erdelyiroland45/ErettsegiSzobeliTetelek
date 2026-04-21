@@ -1,0 +1,57 @@
+﻿  773.9: [Standard] A hasonlat | [Standard] típusú kép: A metaforánál egyszerűbben érthető, mindkét elemet (hasonlító és
+  771.1: [Standard] Az egyszerűbb szóképek: hasonlat, metafora, metonímia
+  760.1: [Standard] hasonlított) szerepeltető képszerű eszköz. Jellegzetes benne a | [Standard] „ | [Standard] mint | [Standard] ” szó.
+  729.3: [Table#20Contents] Hasonlat | [Table#20Contents] Példa
+  729.1: [Standard] Érzéseink, gondolataink, szándékaink kifejezésére | [Standard] hatásfokozó eszközöket | [Standard] , azaz
+  715.3: [Standard] szóképeket | [Standard] használunk. A hétköznapi érintkezés nyelvi megoldásaitól a szépirodalmi
+  709.5: [Table#20Contents] A fogalmi és képi elem összehasonlítása | [Table#20Contents] „ | [Table#20Contents] Mint befagyott tenger, olyan a sík határ | [Table#20Contents] ”
+  701.5: [Standard] stíluson át különböző „beszédhelyzetekben” használhatjuk a képi kifejezésmódot.
+  695.7: [Table#20Contents] (Petőfi)
+  681.9: [Table#20Contents] „ | [Table#20Contents] Mint komor bikáé, olyan a járása | [Table#20Contents] ” (Arany)
+  673.9: [Standard] A képszerűség lényegi mozzanata a közlés képfelidéző erejében rejlik. A hasonlóságon
+  660.1: [Standard] vagy egyezésen alapuló névátvitel, névcsere, felcserélés stb. úgy hat a befogadóra, hogy
+  646.3: [Standard] maga is megpróbálja a elképzelni a szavak jelentéséből következő tartalmat, amelynek
+  633.9: [Standard] A metonímia | [Standard] típusú kép: A metonímia térbeli, időbeli, anyagbeli vagy ok-okozati
+  632.5: [Standard] segítségével új gondolati, érzelmi, hangulati állapotba kerül.
+  620.1: [Standard] kapcsolaton alapuló névcsere.
+  604.9: [Standard] Szóképnek tekintjük a képi kifejezésmódnak azt a fajtáját, amelyen egy személy, tárgy,
+  591.1: [Standard] jelenség, fogalom (fogalmi sík) elnevezését egy másik szóval (kép – képi sík) fejezzük ki.
+  589.3: [Table#20Contents] Metonímia | [Table#20Contents] Leírás | [Table#20Contents] Példa
+  577.3: [Standard] A fogalmi és képi sík közti névátvitel kapcsolatának jellege határozza meg az adott
+  569.5: [Table#20Contents] Szinekdoché | [Table#20Contents] A rész-egész vagy a nem-faj közötti mennyiségi | [Table#20Contents] „ | [Table#20Contents] Most rabló mongol
+  563.5: [Standard] képtípust.
+  555.7: [Table#20Contents] („együttértés”) | [Table#20Contents] viszonyon alapuló névátvitel. | [Table#20Contents] nyilát / Zúgattad
+  541.9: [Table#20Contents] Lényege, hogy a rész használatos az egész helyett | [Table#20Contents] felettünk | [Table#20Contents] ” (Kölcsey)
+  534.0: [Standard] A szóképek csoportosítása:
+  528.1: [Table#20Contents] (pl.: talpon van az egész ház → minden lakó).
+  508.3: [Table#20Contents] Metalepszis | [Table#20Contents] Az előzmény és a következmény felcserélése; az | [Table#20Contents] „ | [Table#20Contents] Férfiúról szólj
+  506.0: [Standard] A metafora (azonosítás) | [Standard] típusú kép: A metafora külső vagy belső hasonlóságon,
+  494.5: [Table#20Contents] („felcserélés”) | [Table#20Contents] ok helyett az okozatot jeleníti meg (pl.: Arcod | [Table#20Contents] nékem, Múzsa, ki
+  492.2: [Standard] hangulati egyezésen alapuló névátvitel.
+  480.7: [Table#20Contents] verejtékével keresed meg a kenyered (a kemény | [Table#20Contents] sokfele bolygott… | [Table#20Contents] ”
+  466.9: [Table#20Contents] munka [ok] helyett az izzadtság [okozat])) | [Table#20Contents] (Homérosz)
+  461.3: [Table#20Contents] Metafora | [Table#20Contents] Leírás | [Table#20Contents] Példa
+  441.5: [Table#20Contents] Teljes metafora | [Table#20Contents] Az azonosító és az azonosított | [Table#20Contents] „ | [Table#20Contents] Kikelet a lyány, virág a
+  427.7: [Table#20Contents] fogalom egyaránt szerepel | [Table#20Contents] szerelem | [Table#20Contents] ” (Petőfi)
+  413.9: [Table#20Contents] „ | [Table#20Contents] A lelkem ódon, babonás vár | [Table#20Contents] ”
+  400.1: [Table#20Contents] (Ady)
+  386.3: [Table#20Contents] „ | [Table#20Contents] Hálót fon az est, a nagy
+  372.5: [Table#20Contents] barna pók | [Table#20Contents] ” (Juhász Gy.)
+  352.7: [Table#20Contents] Egyszerű (csonka) | [Table#20Contents] Csak az azonosító szerepel, az | [Table#20Contents] „ | [Table#20Contents] Hé, fiúk! Amott ül egy túzok
+  338.9: [Table#20Contents] metafora | [Table#20Contents] azonosítottat a befogadó rendeli | [Table#20Contents] magában | [Table#20Contents] ” (Arany)
+  325.1: [Table#20Contents] hozzá | [Table#20Contents] „ | [Table#20Contents] Én túllépek e mai kocsmán | [Table#20Contents] ”
+  311.3: [Table#20Contents] (József Attila)
+  291.5: [Table#20Contents] Igei metafora | [Table#20Contents] A hasonlóságot ige fejezi ki, amely | [Table#20Contents] „ | [Table#20Contents] oh, a szárnyas idő hirtelen
+  277.7: [Table#20Contents] olyan cselekvést tulajdonít az | [Table#20Contents] elrepül | [Table#20Contents] ” (Berzsenyi)
+  263.9: [Table#20Contents] alanynak, amelyet a valóságban csak
+  250.1: [Table#20Contents] a hasonlított dolog végezhetne
+  230.3: [Table#20Contents] Főnévi metafora | [Table#20Contents] Az azonosítót és az azonosítottat | [Table#20Contents] „ | [Table#20Contents] kezed párnámra hull, elalvó
+  216.5: [Table#20Contents] egy-egy főnév képviseli | [Table#20Contents] nyírfaág | [Table#20Contents] ” (Radnóti)
+  196.7: [Table#20Contents] Melléknévi | [Table#20Contents] A hasonlóságot melléknév közvetíti, | [Table#20Contents] „ | [Table#20Contents] Fekete országot álmodtam
+  182.9: [Table#20Contents] metafora | [Table#20Contents] amely átviszi a tulajdonságot az | [Table#20Contents] én | [Table#20Contents] ” (Babits)
+  169.1: [Table#20Contents] egyikről a másikra
+  149.3: [Table#20Contents] Megszemélyesítés | [Table#20Contents] Élettelen dolgokat élőlényekre | [Table#20Contents] „ | [Table#20Contents] … dalra kelt / Egy
+  135.5: [Table#20Contents] jellemző tulajdonságokkal ruház fel | [Table#20Contents] nyakkendő | [Table#20Contents] ”
+  115.7: [Table#20Contents] Szinesztézia | [Table#20Contents] Különböző érzékszervek | [Table#20Contents] „ | [Table#20Contents] Egy kirakatban lila dalra kelt
+  101.9: [Table#20Contents] („együttérzés”) | [Table#20Contents] benyomásait kapcsolja össze | [Table#20Contents] Egy nyakkendő; de aztán
+   88.1: [Table#20Contents] egyazon képben | [Table#20Contents] tompa, telt | [Table#20Contents] ”

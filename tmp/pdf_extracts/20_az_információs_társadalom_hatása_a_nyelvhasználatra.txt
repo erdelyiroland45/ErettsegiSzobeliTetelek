@@ -1,0 +1,75 @@
+﻿  773.9: [Text#20body] Ez nem a katasztrofális helyesírás, hanem a címzetthez fűződő bensőséges
+  771.1: [Standard] Az információs társadalom hatása a nyelvhasználatra
+  758.1: [Text#20body] kapcsolat, a bizalom és összetartozás jele.
+  731.5: [H4] 1. Információs társadalom
+  726.4: [Text#20body] A számítógépes hálózatok alkalmasak a levelezésre, sőt a beszélgetésre
+  711.3: [Text#20body] Szociológiai kifejezés az információ egyszerű, gyors és széles körű terjedése
+  710.5: [Text#20body] (csevegésre) is. A társalgó vagy csevegő program hasonlít az élőbeszédre: rövid
+  695.5: [Text#20body] nyomán kialakuló társadalomra. Az információs társadalom „motorja” a technológia,
+  694.7: [Text#20body] üzeneteket váltunk, amit éppen írunk, megjelenik a beszélgetőpartner képernyőjén:
+  679.6: [Text#20body] irányítója azonban az ember. Az állampolgárok tömegesen kezdenek el új cselekvési és
+  678.8: [Text#20body] akár egy földrésszel odébb is. Vita- fórumok, beszélgető csoportok alakultak. A
+  663.8: [Text#20body] viselkedési mintákat követni, az élethosszig tartó tanulás, az iskolázottság, a műveltség, a
+  663.0: [Text#20body] csevegő programok is igyekeznek fölszámolni a helyesírást, hiszen a gyorsaság, az
+  647.9: [Text#20body] digitális írástudás iránt felébredt igénnyel. A hálózatba való összekapcsoltság az internet
+  647.1: [Text#20body] esetlegesség, sőt az egyediség a fontos. Mindez természetes is lehet, ameddig két
+  632.1: [Text#20body] és a mobiltelefon révén ön- és közösségerősítőek, esélyteremtőek, amelyek az
+  631.3: [Text#20body] ember magánügye, ám ezek a csevegő programok tágabb közösségekhez is
+  616.2: [Text#20body] információ- és tudásáramlás élénkítésével számos pozitív hatáskövetkezményt
+  615.4: [Text#20body] szólnak. A világháló terjeszt nyelvi divatokat. Ezek a nyelvi igénytelenségek,
+  600.4: [Text#20body] eredményeznek.
+  599.6: [Text#20body] következetlen, alkalmi rövidítések pedig már megjelentek az iskolai dolgozatokban,
+  583.7: [Text#20body] különféle reklámszövegekben, egyes rádió és TV adók nyelvezetében.
+  567.2: [H4] 2. Mobiltelefon
+  552.4: [H4] 3.1.1. Előnyök:
+  551.1: [Text#20body] A beszélgetés bevezető része, az udvariassági formula elmaradhat. A hívó felet
+  537.0: [Text#20body] – | [Text#20body] lehetőség a sűrű kapcsolattartásra
+  535.2: [Text#20body] nem csak a számkijelzés, de akár az előre beállított csengőhang alapján is azonosítani
+  521.1: [Text#20body] – | [Text#20body] az e-mailek, SMS-ek elmenthetőek, újra megtekinthetőek, kevesebb időt igényel
+  519.4: [Text#20body] lehet. Ha mi mobilozunk valakinek, a hívott fél személye szintén nyilvánvaló, nem igényel
+  505.3: [Text#20body] az írás
+  503.5: [Text#20body] azonosítást. SMS-t bármikor és bárhonnan írhatunk és olvashatunk. Megőrizhetjük,
+  489.4: [Text#20body] – | [Text#20body] könnyebb ismerkedési lehetőség
+  487.7: [Text#20body] újraolvashatjuk. Az SMS-ek sokfélék. Íródhatnak a megszokott helyesírással. A hírek,
+  473.6: [Text#20body] – | [Text#20body] a rövidítések, hangulatpótló elemek által a nyelv bővül
+  471.8: [Text#20body] hivatalos üzenetek tartoznak ide, és magánüzeneteink közül azok, amelyeket nem közeli
+  456.0: [Text#20body] ismerőseinknek írunk. Az SMS-forgalom többségét azonban azok az üzenetek adják,
+  442.3: [H4] 3.1.2. Hátrányok:
+  440.1: [Text#20body] amelyeket családtagoknak, barátoknak, kedvesünknek küldünk. Ezek az igazi SMS-ek
+  426.8: [Text#20body] – | [Text#20body] túl sok angol kifejezés, melyeknek nincs magyar megfelelője; a használt
+  424.3: [Text#20body] viszont jócskán eltérhetnek a megszokott írásmódtól.
+  411.0: [Text#20body] nemzetközi nyelv alapja az angol
+  395.1: [Standard] – | [Standard] a nyelv torzul, infantilis (köcce = köszi) kifejezések is helyet kapnak
+  391.1: [H4] 3. Számítógép (Internet)
+  381.3: [Text#20body] – | [Text#20body] szavakon belül rövidítéseket használunk, melyek fixálódhatnak (vagyok = vok)
+  375.0: [Text#20body] Új, eddig nem használt technikák, és régebbi technikák együttes alkalmazása.
+  365.5: [Text#20body] – | [Text#20body] a kézírás készsége visszafejlődik
+  359.1: [Text#20body] Hatástöbbszöröző eszköz. Az emberek közötti élő kapcsolat a gyakori kommunikáció
+  349.6: [Text#20body] – | [Text#20body] a rövidített fogalmazás miatt a szövegértési képesség csökken
+  343.3: [Text#20body] függvénye. Az emberek az interneten a problémáikra keresnek megoldást. A neten az
+  333.8: [Text#20body] – | [Text#20body] a szabványos levélforma kihalóban van, a hivatalos levelek formája elvész
+  327.4: [Text#20body] elsődleges megjelenési forma a weblap. Mindig célközönségnek szól. A weblap
+  311.6: [Text#20body] szövegének szerkesztésekor a lényeget kell megfogalmaznunk egyszerűen, érthetően,
+  302.5: [H4] 4. Az elektronikus írásbeliség főbb jellemzői:
+  295.7: [Text#20body] figyelemfelkeltő módon. Fontos a hitelesség, a bizalomfelkeltés, a kulturált megjelenés. A
+  287.0: [Text#20body] – | [Text#20body] tömörítések, rövidítések, szavakon belüli egyszerűsítés, jelhasználat (soxor,
+  279.9: [Text#20body] jól kiválasztott képeknek bizalomfelkeltő erejük van. A fejlécnek „ütősnek” kell lenni, mert itt
+  271.2: [Text#20body] mind1)
+  264.0: [Text#20body] dől el, hogy az adott téma iránt érdeklődő tovább olvassa-e weblapunkat. Az elérhetőséget
+  255.3: [Text#20body] – | [Text#20body] kiejtés utáni írás (LM = elem)
+  248.2: [Text#20body] jól láthatóan, egyértelműen kell feltüntetni a kapcsolatfelvétel megkönnyítése miatt.
+  239.5: [Text#20body] – | [Text#20body] a szleng szavait használjuk
+  223.6: [Text#20body] – | [Text#20body] helyesírási hibák használatával a nyelv romlik (lehet tudatos használat, de lehet a
+  216.9: [H5] 3.1 Kommunikáció az interneten | [H5] ( | [H5] e-mail, internetes fórumok, chat, társalgó/csevegő
+  207.8: [Text#20body] gyors gépelés miatt is)
+  201.4: [H5] programok) | [H5] :
+  191.9: [Text#20body] – | [Text#20body] a szakszavak a köznyelvbe kerülnek (számítástechnika)
+  186.0: [Text#20body] Az új információs csatornákon megjelenő írott szövegek jelentős része
+  176.1: [Text#20body] – | [Text#20body] a vizuális jelek használata emotív, felhívó funkcióval bír (smiley)
+  170.1: [Text#20body] valójában nem az írásbeliség, hanem a szóbeliség birodalmába tartozik. Az e-mail,
+  160.2: [Text#20body] – | [Text#20body] az elektronikus ügyintézéssel terjednek a rövidítések
+  154.3: [Text#20body] az SMS, az internetes fórumok, a chat-üzenetek szövegei beszélt szövegek, írott
+  138.4: [Text#20body] formában. Ezekben nem kell a hagyományos írásbeliségben megszokott módon
+  122.6: [Text#20body] kifejtett, precízen fogalmazott mondatokat írnunk; lehetünk hétköznapiak,
+  106.7: [Text#20body] érzelemkifejezésünk pedig közvetlenebb. Sőt: a fölsorolt szövegformákban gyakran
+   90.9: [Text#20body] tudatosan is jelzik, hogy beszélt nyelvet rögzítenek, azzal, hogy fonetikusan írnak.

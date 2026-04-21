@@ -1,0 +1,32 @@
+﻿  771.1: [Standard] A tudományos stílusréteg
+  741.0: [Standard] A stílusrétegek
+  713.0: [Standard] A stílus a nyelvhasználat jellegzetes módja, a közlésforma számára legjellegzetesebb,
+  699.2: [Standard] legjobb, egyben egyéni eszközkészlet használata.
+  685.4: [Standard] Egy-egy csoport kifejezésmódja, nyelvi eszköztára stílusváltozatokat alakíthat ki, ezek a
+  671.6: [Standard] stílusrétegek | [Standard] . Az egyes stílusrétegek jellemző kifejezéskészlettel és használatukat
+  657.8: [Standard] meghatározó szabályokkal rendelkeznek.
+  614.5: [Standard] A tudományos stílusréteg
+  586.5: [Standard] Az ilyen típusú szövegek célja a valóság tényeinek, törvényszerűségeinek,
+  572.7: [Standard] összefüggéseinek bemutatása, és az új tudományos ismeretek megvitatása.
+  558.9: [Standard] Kommunikációs funkciók közül elsősorban a tájékoztatás a jellemző.
+  531.3: [Standard] Tudományos írásbeli szövegek: esszé, értekezés, tanulmány, szakvélemény, lexikoncikk,
+  517.5: [Standard] kritika, recenzió, tankönyv, stb.
+  489.9: [Standard] Tudományos szóbeli szövegek: tudományos előadás, szakmai vita, referátum, beszámoló
+  462.3: [Standard] Ismeretterjesztő szövegek:
+  448.5: [Standard] - A tudományos ismereteket olyan befogadóknak közvetítik, akiknek nincsenek
+  434.7: [Standard] előismereteik, vagy csak kevés
+  420.9: [Standard] - Célközönség: diákság, nagyközönség
+  407.1: [Standard] - Érthető, érdekfeszítő szövegnek kell lennie
+  393.3: [Standard] - Cikk, előadás, film, egyes termékek használati utasítása
+  350.0: [Standard] A tudományos stílusréteg főbb jellemzői
+  322.0: [Standard] Szóhasználat
+  308.2: [Standard] - Egyértelműségre való törekvés
+  294.4: [Standard] - Szakszavak, szakkifejezések, idegen szavak használata
+  280.6: [Standard] - Tárgyilagos, távolságtartó
+  266.8: [Standard] - Semleges érzelmi állapotú szavak
+  253.0: [Standard] - Pontos kifejezések
+  239.2: [Standard] - Gyakori a szóismétlés
+  211.6: [Standard] Mondatformálás
+  197.8: [Standard] - Többszörösen összetett, de áttekinthető, világos szerkezetű mondatok
+  184.0: [Standard] - Kijelentő, esetenként kérdő mondatok (figyelemfelkeltés)
+  170.2: [Standard] - Ismeretterjesztő szövegek: rövidebb, könnyebben értelmezhető mondatok
