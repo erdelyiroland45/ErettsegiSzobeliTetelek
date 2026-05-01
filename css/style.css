@@ -74,6 +74,12 @@ a {
 .doc-page .doc-figure { margin:18px 0 22px; }
 .doc-page .doc-figure img { display:block; width:100%; max-width:960px; height:auto; margin:0 auto; border-radius:8px; }
 .doc-page .doc-figure figcaption { margin-top:8px; text-align:center; color:rgba(255,255,255,0.72); font-size:.95rem; }
+.doc-page pre.memoriter-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: clamp(0.82rem, 2.8vw, 1.25rem);
+  line-height: 1.7;
+  color: #ffffff !important;
+}
 
 @media (max-width: 767.98px) {
   .doc-wrapper { padding:0; }
@@ -139,6 +145,59 @@ a {
   background-color: #dc3545; }
 .status-unprepared {
   background-color: #6c757d; }
+
+.countdown-box {
+  max-width: 520px;
+  margin: 0 auto 48px;
+  padding: 18px 20px 20px;
+  background: rgba(0, 0, 0, 0.34);
+  color: #fff;
+}
+.countdown-title {
+  margin: 0 0 10px;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-weight: 700;
+  color: #ffc107;
+}
+.countdown-timer {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: clamp(0.18rem, 1.2vw, 0.9rem);
+  font-family: "Orbitron", "Digital-7", "DS-Digital", "LCD", "Courier New", monospace;
+  font-size: clamp(1.35rem, 7.5vw, 4rem);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+  color: #ffffff;
+  text-shadow: 0 0 6px rgba(255, 255, 255, 0.5), 0 0 18px rgba(255, 255, 255, 0.24);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.countdown-timer [data-countdown-part] {
+  min-width: 2ch;
+  text-align: center;
+}
+.countdown-separator {
+  display: inline-block;
+  min-width: clamp(0.35rem, 1.4vw, 0.8rem);
+  text-align: center;
+}
+.countdown-timer.countdown-urgent {
+  color: #ff3b3b;
+  text-shadow: 0 0 6px rgba(255, 59, 59, 0.72), 0 0 18px rgba(255, 59, 59, 0.32);
+}
+.countdown-labels {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  max-width: 420px;
+  margin: 8px auto 0;
+  color: rgba(255, 255, 255, 0.76);
+  font-size: clamp(0.7rem, 2.2vw, 0.9rem);
+  font-weight: 700;
+}
 
 /* Floating Toggle Button */
 .floating-menu-toggle {

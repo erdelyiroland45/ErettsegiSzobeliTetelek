@@ -8,7 +8,7 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Orbitron:700" rel="stylesheet">
 
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
@@ -107,6 +107,8 @@
                   <li class="category-item d-none" data-category="nyelvtan"><a href="nyelvtan/informacios_tarsadalom_hatasa.html" class="nav-link">20. Az információs társadalom hatása a nyelvhasználatra</a></li>
 
                   <!-- Irodalom tételek -->
+                  <li class="category-item d-none" data-category="irodalom"><a href="irodalom/memoriterek.html" class="nav-link">Memoriterek</a></li>
+                  <li class="category-item d-none" data-category="irodalom"><a href="irodalom/muvek_szereplok_munkalap1.pdf" class="nav-link" target="_blank">Művek, szereplők</a></li>
                   <li class="category-item d-none" data-category="irodalom"><a href="irodalom/ady_endre_haboruellenes_kolteszete.html" class="nav-link">1. Ady Endre háborúellenes költészete</a></li>
                   <li class="category-item d-none" data-category="irodalom"><a href="irodalom/arany_janos_balladakorszakai_balladai.html" class="nav-link">2. Arany János balladakorszakai, balladái</a></li>
                   <li class="category-item d-none" data-category="irodalom"><a href="irodalom/babits_mihaly_jonas_konyve.html" class="nav-link">3. Babits Mihály Jónás könyve</a></li>
@@ -144,10 +146,20 @@
               <div class="widget-bar">
       <div class="container">
         <h2 class="widget-title mt-5 text-white">Közérdekű információk:</h2>
+        <p class="widget-text mt-3 mb-5 text-white">Elérhető egy pdf benne a művek, műfaj és a hozzáköthető szereplőkkel.</p>
+        <p class="widget-text mt-3 mb-5 text-white">Fent vannak a memoriterek is</p>
+        <section class="countdown-box" aria-label="Visszaszámláló 2026.05.04 09:00 óráig">
+          <div id="exam-countdown" class="countdown-timer" aria-live="polite">
+            <span data-countdown-part="days">00</span>
+            <span class="countdown-separator">:</span>
+            <span data-countdown-part="hours">00</span>
+            <span class="countdown-separator">:</span>
+            <span data-countdown-part="minutes">00</span>
+            <span class="countdown-separator">:</span>
+            <span data-countdown-part="seconds">00</span>
+          </div>
+        </section>
         <h3 class="widget-text mt-3 mb-5 text-white">Ha helyesírási vagy bármilyen hibát találsz akkor jelezd nekem... Köcc :)</h3>
-        <h4 class="widget-text mt-5 text-warning">Hibajavítások:</h4>
-        <p class="widget-text mt-3 text-white">- Helyesírási és karakterkódolási hibák megszüntetése</p>
-        <p class="widget-text mt-3 text-white">- Fényképes ábrák fixálva</p>
       </div>
     </div>
         </div>
@@ -161,5 +173,41 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.sticky.js"></script>
     <script src="js/main.js"></script>
+    <script>
+      (function () {
+        var countdown = document.getElementById("exam-countdown");
+        var parts = countdown ? {
+          days: countdown.querySelector('[data-countdown-part="days"]'),
+          hours: countdown.querySelector('[data-countdown-part="hours"]'),
+          minutes: countdown.querySelector('[data-countdown-part="minutes"]'),
+          seconds: countdown.querySelector('[data-countdown-part="seconds"]')
+        } : null;
+        var target = new Date("2026-05-04T09:00:00+02:00").getTime();
+
+        function pad(value) {
+          return String(value).padStart(2, "0");
+        }
+
+        function updateCountdown() {
+          var remaining = Math.max(0, target - Date.now());
+          var totalSeconds = Math.floor(remaining / 1000);
+          var days = Math.floor(totalSeconds / 86400);
+          var hours = Math.floor((totalSeconds % 86400) / 3600);
+          var minutes = Math.floor((totalSeconds % 3600) / 60);
+          var seconds = totalSeconds % 60;
+
+          countdown.classList.toggle("countdown-urgent", remaining <= 86400000);
+          parts.days.textContent = pad(days);
+          parts.hours.textContent = pad(hours);
+          parts.minutes.textContent = pad(minutes);
+          parts.seconds.textContent = pad(seconds);
+        }
+
+        if (countdown && parts.days && parts.hours && parts.minutes && parts.seconds) {
+          updateCountdown();
+          setInterval(updateCountdown, 1000);
+        }
+      })();
+    </script>
   </body>
 </html>
