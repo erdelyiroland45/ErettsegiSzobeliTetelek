@@ -1,5 +1,47 @@
 $(function() {
 
+	var countdownInterval = null;
+	var startCountdown = function() {
+		var countdown = document.getElementById("exam-countdown");
+		if (!countdown) return;
+
+		var parts = {
+			days: countdown.querySelector('[data-countdown-part="days"]'),
+			hours: countdown.querySelector('[data-countdown-part="hours"]'),
+			minutes: countdown.querySelector('[data-countdown-part="minutes"]'),
+			seconds: countdown.querySelector('[data-countdown-part="seconds"]')
+		};
+
+		var target = new Date("2026-05-04T09:00:00+02:00").getTime();
+
+		function pad(value) {
+			return String(value).padStart(2, "0");
+		}
+
+		function updateCountdown() {
+			var remaining = Math.max(0, target - Date.now());
+			var totalSeconds = Math.floor(remaining / 1000);
+			var days = Math.floor(totalSeconds / 86400);
+			var hours = Math.floor((totalSeconds % 86400) / 3600);
+			var minutes = Math.floor((totalSeconds % 3600) / 60);
+			var seconds = totalSeconds % 60;
+
+			if (countdown) {
+				countdown.classList.toggle("countdown-urgent", remaining <= 86400000);
+				if (parts.days) parts.days.textContent = pad(days);
+				if (parts.hours) parts.hours.textContent = pad(hours);
+				if (parts.minutes) parts.minutes.textContent = pad(minutes);
+				if (parts.seconds) parts.seconds.textContent = pad(seconds);
+			}
+		}
+
+		if (parts.days && parts.hours && parts.minutes && parts.seconds) {
+			if (countdownInterval) clearInterval(countdownInterval);
+			updateCountdown();
+			countdownInterval = setInterval(updateCountdown, 1000);
+		}
+	};
+
   // Inject floating menu toggle
   var floatingToggleHtml = '<div class="floating-menu-toggle js-menu-toggle"><span class="icon-menu h3 text-white"></span></div>';
   $('body').append(floatingToggleHtml);
@@ -197,6 +239,7 @@ $(function() {
 		});
 	}; 
 	siteMenuClone();
+	startCountdown();
 
 	var getRootPath = function() {
 		var path = window.location.pathname;
@@ -222,6 +265,8 @@ $(function() {
 
 			if (newWidget) {
 				$('.widget-bar').replaceWith($(newWidget));
+				// Restart countdown if we navigated back to a page with a countdown
+				startCountdown();
 			}
 
 			if (newTitle) {

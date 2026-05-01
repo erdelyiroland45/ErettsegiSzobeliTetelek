@@ -173,41 +173,5 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.sticky.js"></script>
     <script src="js/main.js"></script>
-    <script>
-      (function () {
-        var countdown = document.getElementById("exam-countdown");
-        var parts = countdown ? {
-          days: countdown.querySelector('[data-countdown-part="days"]'),
-          hours: countdown.querySelector('[data-countdown-part="hours"]'),
-          minutes: countdown.querySelector('[data-countdown-part="minutes"]'),
-          seconds: countdown.querySelector('[data-countdown-part="seconds"]')
-        } : null;
-        var target = new Date("2026-05-04T09:00:00+02:00").getTime();
-
-        function pad(value) {
-          return String(value).padStart(2, "0");
-        }
-
-        function updateCountdown() {
-          var remaining = Math.max(0, target - Date.now());
-          var totalSeconds = Math.floor(remaining / 1000);
-          var days = Math.floor(totalSeconds / 86400);
-          var hours = Math.floor((totalSeconds % 86400) / 3600);
-          var minutes = Math.floor((totalSeconds % 3600) / 60);
-          var seconds = totalSeconds % 60;
-
-          countdown.classList.toggle("countdown-urgent", remaining <= 86400000);
-          parts.days.textContent = pad(days);
-          parts.hours.textContent = pad(hours);
-          parts.minutes.textContent = pad(minutes);
-          parts.seconds.textContent = pad(seconds);
-        }
-
-        if (countdown && parts.days && parts.hours && parts.minutes && parts.seconds) {
-          updateCountdown();
-          setInterval(updateCountdown, 1000);
-        }
-      })();
-    </script>
   </body>
 </html>
