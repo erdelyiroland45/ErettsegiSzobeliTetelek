@@ -146,6 +146,7 @@ a {
 .status-unprepared {
   background-color: #6c757d; }
 
+/*
 .countdown-box {
   max-width: 520px;
   margin: 0 auto 48px;
@@ -198,6 +199,7 @@ a {
   font-size: clamp(0.7rem, 2.2vw, 0.9rem);
   font-weight: 700;
 }
+*/
 
 /* Floating Toggle Button */
 .floating-menu-toggle {

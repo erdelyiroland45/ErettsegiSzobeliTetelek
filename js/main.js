@@ -1,6 +1,7 @@
 $(function() {
 
 	var countdownInterval = null;
+/*
 	var startCountdown = function() {
 		var countdown = document.getElementById("exam-countdown");
 		if (!countdown) return;
@@ -41,6 +42,7 @@ $(function() {
 			countdownInterval = setInterval(updateCountdown, 1000);
 		}
 	};
+*/
 
   // Inject floating menu toggle
   var floatingToggleHtml = '<div class="floating-menu-toggle js-menu-toggle"><span class="icon-menu h3 text-white"></span></div>';
@@ -239,7 +241,7 @@ $(function() {
 		});
 	}; 
 	siteMenuClone();
-	startCountdown();
+	// startCountdown();
 
 	var getRootPath = function() {
 		var path = window.location.pathname;
@@ -266,7 +268,7 @@ $(function() {
 			if (newWidget) {
 				$('.widget-bar').replaceWith($(newWidget));
 				// Restart countdown if we navigated back to a page with a countdown
-				startCountdown();
+				// startCountdown();
 			}
 
 			if (newTitle) {
