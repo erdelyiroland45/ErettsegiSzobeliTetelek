@@ -63,7 +63,7 @@ a {
 .doc-page .doc-meta { font-size:.9rem; color:var(--doc-muted, #666); margin-bottom:8px; }
 .doc-page .doc-center { text-align:center; }
 .doc-page ol,
-.doc-page ul { margin-left:1.25rem; padding-left:1.25rem; }
+.doc-page ul { margin-left:1.25rem; padding-left:1.25rem; padding-bottom: 20px;}
 .doc-page li > ol,
 .doc-page li > ul { margin-left:-1rem; }
 .doc-page .table-scroll { width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch; margin:16px 0 20px; }
