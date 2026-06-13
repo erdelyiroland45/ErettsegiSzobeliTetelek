@@ -1,7 +1,7 @@
 $(function() {
 
 	var countdownInterval = null;
-/*
+
 	var startCountdown = function() {
 		var countdown = document.getElementById("exam-countdown");
 		if (!countdown) return;
@@ -13,7 +13,7 @@ $(function() {
 			seconds: countdown.querySelector('[data-countdown-part="seconds"]')
 		};
 
-		var target = new Date("2026-05-04T09:00:00+02:00").getTime();
+		var target = new Date("2026-06-15T07:00:00+02:00").getTime();
 
 		function pad(value) {
 			return String(value).padStart(2, "0");
@@ -21,6 +21,13 @@ $(function() {
 
 		function updateCountdown() {
 			var remaining = Math.max(0, target - Date.now());
+
+			if (remaining <= 0) {
+				countdown.style.display = 'none';
+				clearInterval(countdownInterval);
+				return;
+			}
+
 			var totalSeconds = Math.floor(remaining / 1000);
 			var days = Math.floor(totalSeconds / 86400);
 			var hours = Math.floor((totalSeconds % 86400) / 3600);
@@ -42,7 +49,7 @@ $(function() {
 			countdownInterval = setInterval(updateCountdown, 1000);
 		}
 	};
-*/
+
 
   // Inject floating menu toggle
   var floatingToggleHtml = '<div class="floating-menu-toggle js-menu-toggle"><span class="icon-menu h3 text-white"></span></div>';
@@ -241,7 +248,7 @@ $(function() {
 		});
 	}; 
 	siteMenuClone();
-	// startCountdown();
+	startCountdown();
 
 	var getRootPath = function() {
 		var path = window.location.pathname;
@@ -268,7 +275,7 @@ $(function() {
 			if (newWidget) {
 				$('.widget-bar').replaceWith($(newWidget));
 				// Restart countdown if we navigated back to a page with a countdown
-				// startCountdown();
+				startCountdown();
 			}
 
 			if (newTitle) {
